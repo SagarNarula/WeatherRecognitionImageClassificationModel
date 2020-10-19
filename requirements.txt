@@ -138,7 +138,6 @@ MarkupSafe==1.1.1
 matplotlib==3.0.3
 mattermostwrapper==2.2
 mccabe==0.6.1
-menuinst==1.4.16
 mesh-tensorflow==0.1.10
 missingno==0.4.2
 mistune==0.8.4
